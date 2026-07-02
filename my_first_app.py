@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-st.set_page_config(page_title="EDA App", page_icon="�")
+st.set_page_config(page_title="EDA App", page_icon="📊")
 st.title("Streamlit App - EDA_App")
 
 st.write("This app shows a simple exploratory data analysis using sample data.")
